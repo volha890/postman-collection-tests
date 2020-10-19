@@ -1,0 +1,24 @@
+{
+	"id": "9bd80f7d-d5a7-4aae-9002-c07d91ad2f18",
+	"name": "Contact list",
+	"values": [
+		{
+			"key": "firstName",
+			"value": "Amy",
+			"enabled": true
+		},
+		{
+			"key": "lastName",
+			"value": "Jones",
+			"enabled": true
+		},
+		{
+			"key": "contactId",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2020-10-19T05:05:10.101Z",
+	"_postman_exported_using": "Postman/7.34.0"
+}
